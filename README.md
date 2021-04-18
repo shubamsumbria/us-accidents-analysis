@@ -3,7 +3,7 @@ This is Python based Exploratory Data Analysis on "US Accidents" dataset to find
 ## About Dataset
 **US-Accidents: A Countrywide Traffic Accident Dataset**
 ### Description
-This is a countrywide traffic accident dataset, which covers **49 states of the United States.** The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about **4.2 million accident** records in this dataset. Check the below descriptions for more detailed information.
+This is a countrywide traffic accident dataset, which covers **49 states of the United States.** The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about **4.2 million accident** records in this dataset.
 ### Content
 This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to Dec 2020 for the Contiguous United States. Check [here](https://smoosavi.org/datasets/us_accidents) to learn more about this dataset.
 ### Applications of Dataset
