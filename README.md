@@ -1,5 +1,5 @@
 # US Accidents Analysis
-This is Python based Exploratory Data Analysis on "US Accidents" dataset to find out and visualize different trends and factors likes accident hotspot locations and impact of environmental stimuli on accident occurrence in order to get control over the same.
+This is Python based Exploratory Data Analysis on "US Accidents" dataset to find out and visualize different trends including impact of COVID-19 on traffic behavior and accidents,  environmental stimuli on accident occurrence and accident hotspot locations in order to get control over the same.
 ## About Dataset
 **US-Accidents: A Countrywide Traffic Accident Dataset**
 ### Description
@@ -9,8 +9,8 @@ This dataset has been collected in real-time, using multiple Traffic APIs. Curre
 ### Applications of Dataset
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence.
 ### Citation
-- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, arXiv preprint arXiv:1906.05409 (2019).
-- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. “Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.” In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “[A Countrywide Traffic Accident Dataset.](https://arxiv.org/abs/1906.05409)”, arXiv preprint arXiv:1906.05409 (2019).
+- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. “[Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.](https://arxiv.org/abs/1909.09638)” In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 ### Libraries Used:
 <table>
 <tbody>
