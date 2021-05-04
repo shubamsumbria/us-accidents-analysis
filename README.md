@@ -19,5 +19,6 @@ US-Accidents can be used for numerous applications such as real-time accident pr
 <td><a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="NumPy" align="center" width="100"/></a></td>
 <td><a><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" align="center" width="100"/></a></td>
 <td><a><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" align="center" width="100"/></a></td>
+ <td><a><img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="Plotly" align="center" width="90"/></a></td>
 </tr>
 </tbody>
