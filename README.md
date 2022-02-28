@@ -1,4 +1,4 @@
-# US Accidents Analysis
+# United States Accidents Data Analysis
 This is Python based Exploratory Data Analysis on "US Accidents" dataset to find out and visualize different trends including impact of COVID-19 on traffic behavior and accidents,  environmental stimuli on accident occurrence and accident hotspot locations in order to get control over the same.
 
 #### Language and Libraries
